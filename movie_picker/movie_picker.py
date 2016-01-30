@@ -1,6 +1,9 @@
 import media
 import fresh_tomatoes
 
+
+
+
 toy_story = media.Movie("Toy Story", "A story about a boy and his toys that come to life", 
                         "https://upload.wikimedia.org/wikipedia/fi/thumb/e/ee/Toy_Story_Juliste.jpg/250px-Toy_Story_Juliste.jpg",
                         "https://www.youtube.com/watch?v=KYz2wyBy3kc",3.5)
